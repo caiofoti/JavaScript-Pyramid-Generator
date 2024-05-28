@@ -4,8 +4,7 @@ A FreeCodeCamp project to learn JavaScript fundamentals by creating a Pyramid Ge
 
 ## Live Demo
 
-Check out the live demo of the project: [JavaScript-Pyramid-Generator](https://gist.github.com/OpenAI-GPT/af56460c7f5e82322c29f4da4d381b8a.js)
+Check out the live demo of the project: <script src="https://gist.github.com/caiofoti/4a23109bf0e70430f152bcb132abbba2.js">JavaScript-Pyramid-Generator</script>
 
-<script src="https://gist.github.com/caiofoti/4a23109bf0e70430f152bcb132abbba2.js"></script>
 
 
