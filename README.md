@@ -4,7 +4,7 @@ A FreeCodeCamp project to learn JavaScript fundamentals by creating a Pyramid Ge
 
 ## Live Demo
 
-Check out the live demo of the project: <script src="https://gist.github.com/caiofoti/4a23109bf0e70430f152bcb132abbba2.js">JavaScript-Pyramid-Generator</script>
+Check out the live demo of the project:
 
-
-
+<!-- Place this script tag where you want the JavaScript code to be displayed -->
+<script src="https://gist.github.com/caiofoti/4a23109bf0e70430f152bcb132abbba2.js"></script>
